@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.kh.ftb.retailbanking",
-    "sha256_cert_fingerprints": ["10:E4:D0:DC:BE:B1:BA:5B:9E:7B:64:2E:F6:17:DD:98:F2:38:74:06:EC:58:3D:F8:73:70:8C:31:97:DE:6C:4B"]
-  }
-}]
